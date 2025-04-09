@@ -1,6 +1,6 @@
 # 🍳 Big Chefs
 
-**We cook up flavourful games.**
+**We cook up Garbage games.**
 
 Welcome to Big Chefs — a Roblox game development team dedicated to serving up fun, creativity, and chaos in every bite-sized experience. Whether you're cracking up over bad jokes or grinding your way to the top of a simulator leaderboard, we’ve got something spicy for everyone.
 
